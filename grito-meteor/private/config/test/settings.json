@@ -1,0 +1,21 @@
+{
+  "public": {
+    "host": "app-test.hmnenergy.com",
+    "env":"test",
+    "ga": {
+      "account":"???"
+    }
+  },
+  "APN": {
+    "certificate": "aps_development_com.???-cert.pem",
+    "key": "aps_development_com.hippoverse.???-key.pem",
+    "gateway": "gateway.sandbox.push.apple.com"
+  },
+  "Kadira": {
+    "appId": "7gMBmgvwxFp6vrNEp",
+    "secret": "ec3df598-e5a0-4141-8de9-c9333e122963"
+  },
+  "StaminaApp": {
+    "calendarURL": "execstamina://calendarEvent/"
+  }
+}
