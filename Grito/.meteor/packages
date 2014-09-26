@@ -6,3 +6,11 @@
 meteor-platform
 autopublish
 insecure
+aldeed:simple-schema
+aldeed:collection2
+aldeed:autoform
+bootstrap
+ephemer:reactive-datatables
+jquery
+iron:router
+
