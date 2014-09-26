@@ -14,12 +14,9 @@ schema.Menu = new SimpleSchema({
         label: 'Menu Name',
         type:String
     },
-    products:{
-        type:Products,
-        optional:true
-    },
-    status:{
+    Status:{
         label:'Menu status',
+        type:Number,
         defaultValue:1
     },
     createDate: {

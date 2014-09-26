@@ -20,6 +20,11 @@ schema.Products = new SimpleSchema({
         type:Number,
         decimal: true
     },
+    Menu:{
+        type:String,
+        label:'Menu',
+        optional:true
+    },
     Image:{
         type:Images,
         optional:true

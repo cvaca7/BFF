@@ -2,11 +2,7 @@
  * Created by carlosvacamorales on 9/26/14.
  */
 //Images
-Images = new Meteor.Collection('images');
-
-var schema = {};
-
-schema.Images = new SimpleSchema({
+Images = new SimpleSchema({
     Name:{
         label:'Product Name',
         type:String,
@@ -32,21 +28,10 @@ schema.Images = new SimpleSchema({
     }
 });
 
-Images.attachSchema(schema.Images);
-
-
-
-
 //Image types
-ImageTypes = new Meteor.Collection('imageTypes');
-
-var schema = {};
-
-schema.ImageTypes = new SimpleSchema({
+ImageTypes = new SimpleSchema({
     Type:{
         label:'Image Type',
         type:String
     }
 });
-
-ImageTypes.attachSchema(schema.ImageTypes);
