@@ -4,7 +4,6 @@
 # but you can also edit it by hand.
 
 meteor-platform
-autopublish
 insecure
 aldeed:simple-schema
 aldeed:collection2
@@ -13,3 +12,5 @@ ephemer:reactive-datatables
 jquery
 iron:router
 mizzao:bootstrap-3
+less
+
