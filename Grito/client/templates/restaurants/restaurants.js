@@ -48,6 +48,13 @@ var dataTableOptions = {
             render:function(data,type,row){
                 return '<i id="edit" class="fa fa-pencil-square-o fa-lg"></i>';
             }
+        },
+        {
+            title: '',
+            data: '',
+            render:function(data,type,row){
+                return '<i id="delete" class="fa fa-trash-o fa-lg"></i>';
+            }
         }
     ]
 };

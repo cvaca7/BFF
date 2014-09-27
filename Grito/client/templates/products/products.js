@@ -14,7 +14,7 @@ var dataTableOptions = {
         api.column(0, {page:'current'} ).data().each( function ( group, i ) {
             if ( last !== group ) {
                 $(rows).eq( i ).before(
-                        '<tr class="bg-success"><td colspan="9">'+group+'</td></tr>'
+                        '<tr class="bg-success"><td colspan="10">'+group+'</td></tr>'
                 );
 
                 last = group;
@@ -65,6 +65,13 @@ var dataTableOptions = {
             data: '',
             render:function(data,type,row){
                 return '<i id="edit" class="fa fa-pencil-square-o fa-lg"></i>';
+            }
+        },
+        {
+            title: '',
+            data: '',
+            render:function(data,type,row){
+                return '<i id="delete" class="fa fa-trash-o fa-lg"></i>';
             }
         }
     ]
