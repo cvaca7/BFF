@@ -46,11 +46,14 @@ var dataTableOptions = {
 };
 
 Template.restaurants.events ({
-    /*
-     'click ': function (e, tmpl) {
-
+     'click #datatable tr ': function (e, tmpl) {
+         $("#detailContainer").show("slow",function(){
+             $.scrollTo("#detailContainer", {
+                 axis : 'y',
+                 duration : 1000
+             });
+         });
      }
-    */
 });
 
 Template.restaurants.helpers ({
@@ -63,3 +66,18 @@ Template.restaurants.helpers ({
     optionsObject: dataTableOptions
 
 });
+
+
+/*****************************************************************************/
+/* restaurants: Lifecycle Hooks */
+/*****************************************************************************/
+Template.restaurants.created = function () {
+
+};
+
+Template.restaurants.rendered = function () {
+    $("#detailContainer").hide(0);
+};
+
+Template.restaurants.destroyed = function () {
+};
