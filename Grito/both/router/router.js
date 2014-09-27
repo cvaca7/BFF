@@ -15,4 +15,7 @@ Router.configure({
 
 Router.map(function () {
     this.route('home', {path: '/', template:'Home'});
+    this.route('restaurants', {path: '/restaurants', template:'restaurants'});
+    this.route('menu', {path: '/menu', template:'menu'});
+    this.route('products', {path: '/products', template:'products'});
 });
