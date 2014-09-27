@@ -41,19 +41,43 @@ var dataTableOptions = {
             render:function(data,type,row){
                 return moment(row.lastModification).format("MM/DD/YYYY HH:MM:SS");
             }
+        },
+        {
+            title: '',
+            data: '',
+            render:function(data,type,row){
+                return '<i id="edit" class="fa fa-pencil-square-o fa-lg"></i>';
+            }
         }
     ]
 };
 
 Template.restaurants.events ({
-     'click #datatable tr ': function (e, tmpl) {
-         $("#detailContainer").show("slow",function(){
-             $.scrollTo("#detailContainer", {
-                 axis : 'y',
-                 duration : 1000
+     'dblclick #datatable tr ': function (e, tmpl) {
+         if(e.target.id != "edit")
+         {
+             $("#detailContainer").show("slow",function(){
+                 $.scrollTo("#detailContainer", {
+                     axis : 'y',
+                     duration : 1000
+                 });
              });
-         });
-     }
+         }
+     },
+    'click #edit':function(e,t){
+        var tr = $(e.target).closest('tr');
+        var item = $('#datatable').DataTable().row (tr).data();
+        Session.set('editMode','update');
+
+        Session.set('selectedItem',item);
+        Session.set('_id',item._id);
+        $("#restaurantModal").modal();
+    },
+    'click .newRestaurant':function(e,t){
+        Session.set('selectedItem',null);
+        Session.set('editMode','insert');
+        $("#restaurantModal").modal();
+    }
 });
 
 Template.restaurants.helpers ({
@@ -63,10 +87,17 @@ Template.restaurants.helpers ({
             return Restaurants.find().fetch();
         };
     },
+    selectedItem: function () {
+        return Session.get('selectedItem');
+    },
     optionsObject: dataTableOptions
 
 });
 
+Template.restaurants.editMode = function ()
+{
+    return Session.get('editMode');
+};
 
 /*****************************************************************************/
 /* restaurants: Lifecycle Hooks */
@@ -81,3 +112,18 @@ Template.restaurants.rendered = function () {
 
 Template.restaurants.destroyed = function () {
 };
+
+
+AutoForm.hooks({
+    RestaurantForm: {
+        beginSubmit: function(formId, template) {
+
+        },
+        onSuccess: function(operation, result, template) {
+            $("#restaurantModal").modal('toggle');
+        },
+        onError: function(operation, error, template) {
+            alert("error: " + error);
+        }
+    }
+});
