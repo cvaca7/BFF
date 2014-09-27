@@ -20,14 +20,14 @@ schema.Products = new SimpleSchema({
         type:Number,
         decimal: true
     },
-    Menu:{
+    Restaurant:{
         type:String,
-        label:'Menu',
-        optional:true
+        label:'Restaurant'
     },
-    Image:{
-        type:Images,
-        optional:true
+    Menu:{
+        type:Boolean,
+        label:'Menu',
+        defaultValue:false
     },
     Rate:{
         label:'Product Rate',
