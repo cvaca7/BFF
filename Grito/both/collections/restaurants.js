@@ -31,16 +31,22 @@ schema.Restaurants = new SimpleSchema({
         type:String,
         optional:true
     },
-    Image: {
-        type: Images,
-        optional:true
-    },
     Rate:{
         label:'Restaurant Rate',
         type:Number,
         max:5,
         min:0,
         defaultValue:0
+    },
+    createDate: {
+        type: Date,
+        label: 'Create Date',
+        defaultValue: new Date ()
+    },
+    lastModification: {
+        type: Date,
+        label: 'Last Modification Date',
+        defaultValue: new Date ()
     }
 });
 
