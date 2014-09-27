@@ -1,6 +1,7 @@
 /**
  * Created by carlosvacamorales on 9/26/14.
  */
+/*
 Menu = new Meteor.Collection('menu');
 
 var schema = {};
@@ -30,3 +31,4 @@ schema.Menu = new SimpleSchema({
         defaultValue: new Date ()
     }
 });
+    */

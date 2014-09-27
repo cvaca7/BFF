@@ -2,6 +2,8 @@
  * Created by carlosvacamorales on 9/26/14.
  */
 //Images
+/*
+ */
 Images = new SimpleSchema({
     Name:{
         label:'Product Name',
@@ -29,9 +31,11 @@ Images = new SimpleSchema({
 });
 
 //Image types
+/*
 ImageTypes = new SimpleSchema({
     Type:{
         label:'Image Type',
         type:String
     }
 });
+    */
