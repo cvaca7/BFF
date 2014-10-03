@@ -18,4 +18,5 @@ Router.map(function () {
     this.route('restaurants', {path: '/restaurants', template:'restaurants'});
     this.route('menu', {path: '/menu', template:'menu'});
     this.route('products', {path: '/products', template:'products'});
+    this.route('mapcontainer', {path: '/mapcontainer', template:'MapContainer'});
 });

@@ -9,6 +9,11 @@
           <option name="serverPort" value="3001" />
           <option name="userDatabase" value="meteor" />
         </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="label" value="localhost-27017" />
+          <option name="serverName" value="localhost" />
+          <option name="serverPort" value="27017" />
+        </ServerConfiguration>
       </list>
     </option>
   </component>

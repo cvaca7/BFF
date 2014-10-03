@@ -1,0 +1,539 @@
+[
+    {
+        "_id": "id_aasdasd21321312",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.726345,-74.002327],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasdajhjkhj21312",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.726345,-74.002492],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aahjghjghjkhj21312",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.726345,-74.002590],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasdajhjkhj218978",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.726420,-74.002590],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aadgdfhdfjhjkhj21312",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.726000,-74.002680],
+        "numberOfMiss" : 0
+    },
+
+
+
+
+    {
+        "_id": "id_aaadskkpadskpasd1312",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.722637,-73.988852],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasdlasdlppasd21312",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.722637,-73.988600],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasasdkkasps21312",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.722237,-73.988600],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aassoasppds223312",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.722237,-73.987600],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasdasd4123sda12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.722537,-73.987600],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasdajaw23123dasbn2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.722637,-73.988852],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasda123asdasdasd22",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.722237,-73.987200],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aabaosdk2p23kasd12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.722100,-73.987200],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasdok22p3kj21312",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.721900,-73.987200],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasdajsadok2k2p2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.721400,-73.987100],
+        "numberOfMiss" : 0
+    },
+
+
+
+
+    {
+        "_id": "id_aasd123asdasd2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720165,-74.000095],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasdasd1231321312",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720525,-74.000000],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aaslmk123mlas312",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720525,-74.000100],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasdok123oks12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720525,-74.000400],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas123koasdo2k22",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720225,-74.000400],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasd1232okasds12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720575,-74.000420],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas123okasdk212",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720615,-74.001420],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasd2kaso2ksa12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720615,-74.002420],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasda213oasdks12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720715,-74.002420],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas213okasdasdas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720715,-74.003420],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasd2020asdasdas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720715,-74.003820],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aa23asdasasdas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720600,-74.002520],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas123asdasdas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720200,-74.002520],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas2123asdass12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720520,-74.002500],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas21safjdas22s12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720720,-74.002500],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas213okasd22asd",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720780,-74.002400],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasdedascbasdasdas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720780,-74.002800],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_abnvhjhokasdasdas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720280,-74.002100],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aafhgh534das12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720680,-74.003100],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aashgjuktydas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.720680,-74.003900],
+        "numberOfMiss" : 0
+    },
+
+
+
+    {
+        "_id": "id_aasjhgkyftdsdas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.730182,-73.996147],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aajhgkyffddas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.730282,-73.996347],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasjutfdsdddas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.730582,-73.996347],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas2nnjmjmghas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.730582,-73.996147],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aafsdokbksdsdas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.730282,-73.996147],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas2vkasdpsasdas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.731282,-73.998147],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aagkpsaspsas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.731282,-73.998447],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasplhk232as12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.731482,-73.998447],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_afdkaspas2s12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.731082,-73.998447],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasdp2poassdas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.730090,-73.998447],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasasodkspasdas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.730200,-73.998447],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas21asdp2p2as12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.730200,-73.998200],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas2pas2kdassdas12",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.730300,-73.998200],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas21zzccasdasc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.730500,-73.998300],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas21zzasd020asdasdc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.730600,-73.998500],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas21z209asd09sc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.730800,-73.998700],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas22121easdszasc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.730800,-73.999700],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aaasd020sdssc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.730900,-73.999700],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas2212asdcc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.731000,-73.999700],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasasd123321c2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.731000,-73.999900],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aa2998s0acc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.731000,-73.999200],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas2asda0202asc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732000,-73.998000],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aaasdasd022asc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732000,-73.998600],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasasd120203c2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732400,-73.998600],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas2123oasdpasasc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732400,-73.998200],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aaasdasd00123c2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732400,-73.998500],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas21zsd0123c2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732600,-73.998500],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas21230asd0asdasc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732600,-73.998800],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas21asd0202sc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732200,-73.998900],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas2asd022c2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732100,-73.998900],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas2phphpfdasc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732100,-73.998200],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aasasd2p2asc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732100,-73.997200],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas21230asd0asc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732100,-73.997800],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas21zzasdp22a2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732200,-73.997800],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas21220asdasbb2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732800,-73.997800],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas2200asd0asdsdasc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732800,-73.997200],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas220as0da0asasc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732800,-73.997900],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas21zpdgfpfg0asc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.732900,-73.997900],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas30as00dsdac2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.731900,-73.997900],
+        "numberOfMiss" : 0
+    },
+    {
+        "_id": "id_aas2200asdsdasc2",
+        "user1Id": "admin",
+        "user2Id": "vincil",
+        "coordinates2d": [40.731200,-73.997900],
+        "numberOfMiss" : 0
+    }
+
+]

@@ -1,0 +1,39 @@
+<template name="MapContainer">
+    <div class="container">
+        <div class="row clearfix">
+            <div class="col-md-12 column">
+                <div class="page-header">
+                    <h1>
+                        Encounter map
+                    </h1>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-9 col-md-9 col-lg-9">
+                {{> map}}
+            </div>
+            <div class=".col-sm-3 col-md-3 col-lg-3 right-side">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label for="inputLat">Latitude:</label>
+                        <input id="inputLat" type="number" class="form-control"><br>
+                    </div>
+                    <div class="col-md-12">
+                        <label for="inputLong">Longitude:</label>
+                        <input id="inputLong" type="number" class="form-control"><br>
+                    </div>
+                    <div class="col-md-12">
+                        <label for="InputRad">Radius(Km):</label>
+                        <input id="InputRad" type="number" class="form-control"><br>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
+
+<template name="map">
+    <div id="map-canvas"></div>
+</template>
